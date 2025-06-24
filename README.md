@@ -5,8 +5,8 @@
 - **Server API:** [https://b11a11-educore-server.vercel.app](https://b11a11-educore-server.vercel.app)
 
 ## 📁 GitHub Repositories
-- **Client:** [EduCore Client](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-arif128551)
-- **Server:** [EduCore Server](https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-arif128551)
+- **Client:** [EduCore Client](https://github.com/arif128551/educore_clientside)
+- **Server:** [EduCore Server](https://github.com/arif128551/educore_serverside)
 
 ## 🔧 Technology Stack
 - **Runtime:** Node.js
