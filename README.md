@@ -5,8 +5,8 @@
 - **Server API:** [https://b11a11-educore-server.vercel.app](https://b11a11-educore-server.vercel.app)
 
 ## 📁 GitHub Repositories
-- **Client:** [EduCore Client](https://github.com/arifuddincoder/educore_clientside)
-- **Server:** [EduCore Server](https://github.com/arifuddincoder/educore_serverside)
+- **Client:** [EduCore Client](https://github.com/arifuddincoder/educore-clientside)
+- **Server:** [EduCore Server](https://github.com/arifuddincoder/educore-serverside)
 
 ## 🧪 How to Run Locally
 
